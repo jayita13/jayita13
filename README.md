@@ -12,5 +12,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about tech facts
 - 📫 How to reach me: https://www.linkedin.com/in/jayita-bhattacharyya-3657ba164/ or https://www.kaggle.com/jayitabhattacharyya
 - 😄 Pronouns: jolly_walker
-- ⚡ Fun fact: I'm too silly!!
--->
+- ⚡ Fun fact: I'm too silly!! !>
