@@ -11,3 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/jayita-bhattacharyya-3657ba164/ or https://www.kaggle.com/jayitabhattacharyya
 - 😄 Pronouns: JB
 - ⚡ Fun fact: I'm too silly!! 
+- :laughing: 
