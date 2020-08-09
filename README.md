@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - :eyes: I’m looking for help with Data Science
 - 💬 Ask me about tech facts
 - :telephone_receiver: How to reach me: https://www.linkedin.com/in/jayita-bhattacharyya-3657ba164/ or jayitab25@gmail.com
-- :snowflake: Active on : https://www.kaggle.com/jayitabhattacharyya and https://www.hackerrank.com/Jayita_B 
+- :snowflake: Active on : https://www.kaggle.com/jayitabhattacharyya and https://www.hackerrank.com/Jayita_B and https://www.hackerearth.com/@jayita4
 - 😄 Pronouns: JB
 - ⚡ Fun fact: I'm too silly!! 
  
