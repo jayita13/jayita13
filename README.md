@@ -14,4 +14,4 @@
 - 😄 Pronouns: JB
 - ⚡ Fun fact: I'm too silly!! Wanna build cool stuffs 
  
-![Metrics](https://metrics.lecoq.io/jayita13?template=classic&activity=1&languages=1&stars=1&followup=1&activity.limit=5&activity.days=14&activity.filter=all&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=Asia%2FCalcutta&config.animated=true)
+![Metrics](https://metrics.lecoq.io/jayita13?template=classic&languages=1&stars=1&followup=1&languages.colors=github&languages.threshold=0%25&stars.limit=4&config.timezone=Asia%2FCalcutta&config.animated=true)
