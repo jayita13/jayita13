@@ -4,7 +4,7 @@
 
 ### Here are some ideas to get you started:
 
-- 🔭 I’m currently working on **Computer Vision** 
+- 🔭 I’m currently working on **Computer Vision** and **NLP**
 - 🌱 I’m currently __learning PyTorch__
 - 👯 I’m looking to collaborate on **Machine Learning Projects**
 - :eyes: I’m looking for help with __Data Science__
