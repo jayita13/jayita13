@@ -1,6 +1,6 @@
 # Hi there I'm Jayita👋
 
-# Visit my detailed profile - https://resume.io/r/cxcPWLoYX
+## Visit my detailed profile - https://resume.io/r/cxcPWLoYX
 
 ### Here are some ideas to get you started:
 
